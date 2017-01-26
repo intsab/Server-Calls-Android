@@ -1,4 +1,4 @@
-# Network Calls
+# Server Calls Introduction
 Server Calls is a free Library for Http POST and GET requests for Android. You can upload file also in very simple way. 
 
 <h1>USAGE</h1>
