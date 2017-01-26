@@ -4,7 +4,7 @@ Server Calls is a free Library for Http POST and GET requests for Android. You c
 <h1>USAGE</h1>
 Step 1- Simple Download the library folder </br>
 Step 2- Import in your project as module </br>
-step 3- Add  ``` android {
+Step 3- Add  ``` android {
     useLibrary 'org.apache.http.legacy' 
     } ``` in your gradle file of project. (if not exist*)</br>
 <h1>Post Request</h1>
