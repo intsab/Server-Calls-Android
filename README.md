@@ -12,7 +12,7 @@ Step 3- Add  ``` android {
  ArrayList<NameValuePair> params = new ArrayList<>();
         params.add(new BasicNameValuePair("username", "10"));
         params.add(new BasicNameValuePair("password", "0"));
-        NetworkCalls.getInstance().postRequest("http://taazi.com/api/logInMobile/format/json", params, new NetworkCalls.ResponseListener() {
+        NetworkCalls.getInstance().postRequest("http://xyz.com/api/login/format/json", params, new NetworkCalls.ResponseListener() {
             @Override
             public void onResponse(final String response) {
                 Log.d("", response);
@@ -33,7 +33,7 @@ Step 3- Add  ``` android {
 ```
 <h1>GET Request</h1>
  ```
-  NetworkCalls.getInstance().getRequest("http://tickets.taazi.com/api/getEvents/?limit=10&offset=0", new NetworkCalls.ResponseListener() {
+  NetworkCalls.getInstance().getRequest("http://xyz.com/api/getEvents/?limit=10&offset=0", new NetworkCalls.ResponseListener() {
             @Override
             public void onResponse(final String response) {
                 Log.d("", response);
@@ -56,7 +56,7 @@ Step 3- Add  ``` android {
         params.add(new BasicNameValuePair("token", "22c61949efb02fd66c446f24dc680078"));
         params.add(new BasicNameValuePair("type", "profile"));
         File file = new File("/storage/sdcard0/DCIM/Camera/img.jpg");
-        NetworkCalls.getInstance().uploadFileRequest("http://taazi.com/api/profilePic/format/json", file, "profile_pic", params, new NetworkCalls.ResponseListener() {
+        NetworkCalls.getInstance().uploadFileRequest("http://xyz.com/api/uploadProfile/format/json", file, "profile_pic", params, new NetworkCalls.ResponseListener() {
             @Override
             public void onResponse(String response) {
                Log.d("Response:",response);
