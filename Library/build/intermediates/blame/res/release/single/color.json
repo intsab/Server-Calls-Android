@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_tint_switch_thumb.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/color/switch_thumb_material_dark.xml"
+    }
+]

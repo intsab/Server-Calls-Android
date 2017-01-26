@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout-v21/notification_action.xml"
+    }
+]

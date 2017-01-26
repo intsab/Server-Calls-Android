@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/src/main/assets"/><source path="/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Source/Taazi Android SVN/SVN_Android/NetworkCall/networkcalls/src/release/assets"/></dataSet></merger>
