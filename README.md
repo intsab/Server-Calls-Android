@@ -76,5 +76,4 @@ Step 3- Add  ``` android {
         });
  ```
  <h1>Developers</h1>
- 1- M Intsab Haider (Mobile Application Developer)</br>
- 2- Uferah Shafi (Android Application Developer)
+ M Intsab Haider (Mobile & Web Application Developer)</br>
